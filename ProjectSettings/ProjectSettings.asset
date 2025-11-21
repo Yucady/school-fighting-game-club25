@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 2ce313cdd62ed5f4fbdd9d31b3483568
+  productGUID: fd47a62d79ca81d4fb85e8e9d5d3d958
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -687,10 +687,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: d5ce105c-0dfb-4fb6-aebb-d35621c1743c
+  cloudProjectId: e69fdfd8-8d45-42e9-9769-6d74be4a2f03
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: school-fighting-game-club25(temp)
+  projectName: school-fighting-game-club25(temp) 2025-11-20_15-41-34
   organizationId: milt5623
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
